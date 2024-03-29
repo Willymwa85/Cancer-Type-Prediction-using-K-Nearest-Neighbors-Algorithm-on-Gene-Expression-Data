@@ -1,7 +1,4 @@
 # Cancer-Type-Prediction-using-K-Nearest-Neighbors-Algorithm-on-Gene-Expression-Data
-
-# Cancer Type Prediction using K-Nearest Neighbors Algorithm on Gene Expression Data
-
 # Introduction
 
 The provided code is an implementation of the K-Nearest Neighbors (KNN) algorithm for predicting cancer types based on gene expression data. The KNN algorithm is a supervised machine learning technique used for classification problems. It classifies new data points based on their similarity to the nearest neighbors in the training dataset. The code effectively trains a KNN model on gene expression data, evaluates its performance, and provides visualizations to analyze the model's behavior and data distribution.
