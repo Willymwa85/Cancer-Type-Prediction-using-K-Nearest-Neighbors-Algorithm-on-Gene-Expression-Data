@@ -20,7 +20,8 @@ Visualizations are provided to analyze the model's behavior and data distributio
 Accuracy vs. Number of Neighbors (k): A line plot shows the relationship between the number of neighbors (k) and the corresponding model accuracy.
 Confusion Matrix: A heatmap visualizes the confusion matrix, displaying the true labels against the predicted labels.
 Principal Component Analysis (PCA): A scatter plot visualizes the gene expression data projected onto the first two principal components, colored by cancer type.
-Applicability
+
+# Applicability
 
 The code demonstrates the application of the KNN algorithm for cancer type prediction based on gene expression data. This approach can be useful in the field of bioinformatics and cancer research, where accurate classification of cancer types is crucial for diagnosis and treatment planning.
 
